@@ -140,3 +140,6 @@ Updated Employee: Employee{id=1, name='Aidana Kokumova', position='Senior Develo
 All Employees After Deletion:
 Employee{id=2, name='Mukhammed Bekten uly', position='Product Manager', salary=95000.0, hireDate=2021-11-20}
 ```
+## Screenshots
+<img width="1470" alt="Screenshot 2024-11-29 at 15 04 37" src="https://github.com/user-attachments/assets/e6258bcd-f3b3-4145-a728-9eb39dcfe3ce">
+<img width="1470" alt="Screenshot 2024-11-29 at 15 05 30" src="https://github.com/user-attachments/assets/d6a318e6-f782-41b2-bf62-53747cc15951">
