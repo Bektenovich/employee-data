@@ -21,4 +21,6 @@ Delete employees by their ID.
 Make sure PostgreSQL is installed and the server is running on your machine.
 #### Create the Database
 Open a PostgreSQL client (e.g., psql or pgAdmin) and run the following SQL command to create the database:
-''' CREATE DATABASE employee_db; '''
+''' 
+CREATE DATABASE employee_db; 
+'''
